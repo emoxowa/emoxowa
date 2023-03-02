@@ -8,7 +8,7 @@ I'm a junior **Frontend developer** from Samui 🏝 Here you'll find a collectio
 * 🤝 I'm open to collaboration and new projects
 * 💬 Ask me about anything [here](https://t.me/emoxowa)
 
-### Skills
+## Skills
 
 
 <p align="left">
@@ -46,10 +46,10 @@ I'm a junior **Frontend developer** from Samui 🏝 Here you'll find a collectio
 </div>  
 
 
-### 💻 Codewars:
+## 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/emoxowa/badges/large)
 
-### Badges
+## Badges
 
 <a href="https://github.com/emoxowa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emoxowa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
