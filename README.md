@@ -40,7 +40,7 @@ I'm a junior **Frontend developer** from Samui 🏝 Here you'll find a collectio
 <a href="mailto:emoxowa@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/emoxowa" target="_blank">
+<a href="https://t.me/emoxowa" target="blank">
   <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
 </a>
 </div>  
