@@ -1,7 +1,7 @@
 ﻿Hi 👋 I'm Evgeniia!﻿
 ============================
 
-I'm a junior **Frontend developer** from Samui 🏝 Here you'll find a collection of code, styles, and creativity. Welcome to my world of web development!
+I'm a junior **Frontend developer** 🏝 Here you'll find a collection of code, styles, and creativity. Welcome to my world of web development!
 
 * 🌍 I'm based in Samui/Moscow
 * 🧠 I'm currently learning TypeScript, React, and NextJS
