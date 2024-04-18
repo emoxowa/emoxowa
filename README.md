@@ -1,10 +1,9 @@
 ﻿Hi 👋 I'm Evgeniia!﻿
 ============================
 
-I'm a junior **Frontend developer** 🏝 Here you'll find a collection of code, styles, and creativity. Welcome to my world of web development!
+I'm a **Frontend developer** 🏝 Here you'll find a collection of code, styles, and creativity. Welcome to my world of web development!
 
 * 🌍 I'm based in Moscow
-* 🧠 I'm currently learning TypeScript, React, and NextJS
 * 🤝 I'm open to collaboration and new projects
 * 💬 Ask me about anything [here](https://t.me/emoxowa)
 
