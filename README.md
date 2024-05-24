@@ -1,7 +1,7 @@
 ﻿Hi 👋 I'm Evgeniia!﻿
 ============================
 
-I'm a **Frontend developer** 🏝 Here you'll find a collection of code, styles, and creativity. Welcome to my world of web development!
+I'm a **Frontend developer**. Here you'll find a collection of code, styles, and creativity. Welcome to my world of web development!
 
 * 🌍 I'm based in Moscow
 * 🤝 I'm open to collaboration and new projects
@@ -26,6 +26,8 @@ I'm a **Frontend developer** 🏝 Here you'll find a collection of code, styles,
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="36px" width="36px" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="36px" width="36px" /></a>
 </p>
 
 
