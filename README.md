@@ -57,3 +57,18 @@ I'm a **Frontend developer**. Here you'll find a collection of code, styles, and
 ## Badges
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emoxowa)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📂 My projects
+
+### <p align="left">[Goods4You](https://emoxowa.github.io/Goods4you)
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20" height="20" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="20" height="20" alt="Vite" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="20" height="20" alt="TypeScript" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="20" height="20" alt="Sass" /></a></p>
+
+Goods4You is an e-commerce project developed as part of the course [Open School for JS+React Developers by T1](https://t1.ru/internship/item/otkrytaya-shkola-dlya-razrabotchikov-js-react/?ysclid=m0qnam6p2330197919).
+
+<img src="https://github.com/user-attachments/assets/4ad3c989-8e3f-4a08-96fb-1dc6a64656ff" width="400" alt="Goods4You Screenshot" />
+
+🔗 **Repository:** [GitHub](https://github.com/your-username/goods4you)  
+🔗 **Deploy:** [Goods4You](https://emoxowa.github.io/Goods4you)
+
+ <hr>
