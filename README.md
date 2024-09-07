@@ -68,7 +68,7 @@ Goods4You is an e-commerce project developed as part of the course [Open School 
 
 <img src="https://github.com/user-attachments/assets/4ad3c989-8e3f-4a08-96fb-1dc6a64656ff" width="400" alt="Goods4You Screenshot" />
 
-🔗 **Repository:** [GitHub](https://github.com/your-username/goods4you)  
+🔗 **Repository:** [GitHub](https://github.com/emoxowa/Goods4you)  
 🔗 **Deploy:** [Goods4You](https://emoxowa.github.io/Goods4you)
 
  <hr>
