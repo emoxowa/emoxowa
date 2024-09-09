@@ -60,9 +60,15 @@ I'm a **Frontend developer**. Here you'll find a collection of code, styles, and
 
 ## 📂 My projects
 
-### <p align="left">[Goods4You](https://emoxowa.github.io/Goods4you)
+### [Goods4You](https://emoxowa.github.io/Goods4you)
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20" height="20" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="20" height="20" alt="Vite" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="20" height="20" alt="TypeScript" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="20" height="20" alt="Sass" /></a></p>
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="20" height="20" /></a>  
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20" height="20" alt="Redux" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="20" height="20" alt="Vite" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="20" height="20" alt="Sass" /></a>
+</p>
 
 Goods4You is an e-commerce project developed as part of the course [Open School for JS+React Developers by T1](https://t1.ru/internship/item/otkrytaya-shkola-dlya-razrabotchikov-js-react/?ysclid=m0qnam6p2330197919).
 
@@ -71,4 +77,27 @@ Goods4You is an e-commerce project developed as part of the course [Open School 
 🔗 **Repository:** [GitHub](https://github.com/emoxowa/Goods4you)  
 🔗 **Deploy:** [Goods4You](https://emoxowa.github.io/Goods4you)
 
- <hr>
+---
+
+### [Train-A](https://emoxowa.github.io/Train-A/)
+
+<p align="left">
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" width="20" height="20" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="20" height="20" /></a>  
+<a href="https://ngrx.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ngrx/ngrx-original.svg" width="20" height="20" alt="NgRx" /></a>
+<a href="https://taiga-ui.dev/" target="_blank" rel="noreferrer"><img src="https://taiga-ui.dev/assets/images/taiga.svg" width="20" height="20" alt="taiga-ui" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="20" height="20" alt="Sass" /></a>
+</p>
+
+Train-A is a team project developed as part of the course [Angular course by The Rolling Scopes School](https://rs.school/courses/angular). It is a railway ticket booking platform where users can search for train trips and book tickets.
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/user-attachments/assets/fd494d1c-f79d-45a1-80f5-45e028c80b2d" width="600" alt="Train-A Screenshot 1" />
+</div>
+
+🔗 **Repository:** [GitHub](https://github.com/emoxowa/Train-A)  
+🔗 **Deploy:** [Train-A](https://emoxowa.github.io/Train-A/)
+
+---
+
+
