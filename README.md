@@ -28,6 +28,8 @@ I'm a **Frontend developer**. Here you'll find a collection of code, styles, and
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="36px" width="36px" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="36px" width="36px" /></a>
+<a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" width="36" height="36" /></a>
+<a href="https://taiga-ui.dev/" target="_blank" rel="noreferrer"><img src="https://taiga-ui.dev/assets/images/taiga.svg" width="36" height="36" alt="taiga-ui" /></a>
 </p>
 
 
