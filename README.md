@@ -102,4 +102,28 @@ Train-A is a team project developed as part of the course [Angular course by The
 
 ---
 
+### [Movies Explorer](https://movies-explorer-frontend-six-ebon.vercel.app/)
+
+<p align="left">
+<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="20" height="20" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="20" height="20" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="20" height="20" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="20" height="20" /></a>
+</p>
+
+**Movies Explorer** is a full-stack web application that allows users to search for movies, add them to their favorites, and manage their profile.
+
+This project is part of the Web Development course at [Yandex.Practicum](https://practicum.yandex.ru/web/).
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/user-attachments/assets/43fb57a3-15c9-4cea-92d0-75290ea31452" width="600" alt="Movies Explorer Screenshot" />
+</div>
+
+🔗 **Figma Design:** [Link to Figma](https://drive.google.com/drive/folders/1OFROUnXZKQvoaR4yGTWd1K7OsoRrQBRe)  
+🔗 **Deploy:** [Movies Explorer](https://movies-explorer-frontend-six-ebon.vercel.app/)  
+🔗 **Backend API:** [Movies Explorer API](https://movies-explorer-api-seven.vercel.app/)  
+🔗 **Frontend Repository:** [GitHub Frontend](https://github.com/emoxowa/movies-explorer-frontend)  
+🔗 **Backend Repository:** [GitHub Backend](https://github.com/emoxowa/movies-explorer-api)
+
 
