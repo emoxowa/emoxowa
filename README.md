@@ -74,7 +74,9 @@ I'm a **Frontend developer**. Here you'll find a collection of code, styles, and
 
 Goods4You is an e-commerce project developed as part of the course [Open School for JS+React Developers by T1](https://t1.ru/internship/item/otkrytaya-shkola-dlya-razrabotchikov-js-react/?ysclid=m0qnam6p2330197919).
 
-<img src="https://github.com/user-attachments/assets/4ad3c989-8e3f-4a08-96fb-1dc6a64656ff" width="400" alt="Goods4You Screenshot" />
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/user-attachments/assets/8f115308-5c01-464c-92ae-2b469156cb25" width="600" alt="Goods4You Screenshot" />
+</div>
 
 🔗 **Repository:** [GitHub](https://github.com/emoxowa/Goods4you)  
 🔗 **Deploy:** [Goods4You](https://emoxowa.github.io/Goods4you)
