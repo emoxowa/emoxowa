@@ -62,6 +62,26 @@ I'm a **Frontend developer**. Here you'll find a collection of code, styles, and
 
 ## 📂 My projects
 
+### [Todos](https://todos-eight-sooty.vercel.app/)
+
+<p align="left">
+<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="20" height="20" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="20" height="20" alt="TypeScript" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="20" height="20" alt="Vite" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://lxspandora.gallerycdn.vsassets.io/extensions/lxspandora/vscode-styled-components-snippets/1.0.2/1506443337800/Microsoft.VisualStudio.Services.Icons.Default" alt="Styled-components" width="20" height="20" /></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="20" height="20" alt="Jest" /></a>
+<a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="20" height="20" alt="Ant Design" /></a>
+</p>
+
+**Todos** is a task management application that helps you organize your daily tasks efficiently.
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/user-attachments/assets/122a5a39-0ecd-4094-8eaf-f57c518705cd" width="300" alt="Todos Screenshot" />
+</div>
+
+🔗 **Repository:** [GitHub](https://github.com/emoxowa/Todos)  
+🔗 **Deploy:** [Todos App](https://todos-eight-sooty.vercel.app/)
+
 ### [Goods4You](https://emoxowa.github.io/Goods4you)
 
 <p align="left">
